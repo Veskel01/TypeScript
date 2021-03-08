@@ -1,0 +1,499 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 587,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "R1WKzQEACAAJ",
+      "etag": "Lb+a1FeSJLI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R1WKzQEACAAJ",
+      "volumeInfo": {
+        "title": "10 000 faktów",
+        "subtitle": "encyklopedia",
+        "authors": ["Przedsiębiorstwo Wydawniczo-Handlowe \"Arti\", Artur Rogala, Mariusz Rogala"],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "8377405164" },
+          { "type": "ISBN_13", "identifier": "9788377405161" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=R1WKzQEACAAJ&dq=10&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=R1WKzQEACAAJ&dq=10&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/10_000_fakt%C3%B3w.html?hl=&id=R1WKzQEACAAJ"
+      },
+      "saleInfo": { "country": "PL", "saleability": "NOT_FOR_SALE", "isEbook": false },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=R1WKzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uho3DwAAQBAJ",
+      "etag": "xam0cLN7L8M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uho3DwAAQBAJ",
+      "volumeInfo": {
+        "title": "(SAMPLE) 10 in One Study Package for CBSE Mathematics Class 12 with 5 Model Papers",
+        "subtitle": "",
+        "authors": ["Disha Experts"],
+        "publisher": "Disha Publications",
+        "description": "10 in ONE CBSE Study Package Mathematics class 12 with 5 Sample Papers is another innovative initiative from Disha Publication. This book provides the excellent approach to Master the subject. The book has 10 key ingredients that will help you achieve success. 1. Chapter Utility Score 2. All India Board 2017 Solved Paper 3. Exhaustive theory based on the syllabus of NCERT books along with the concept maps for the bird's eye view of the chapter. 4. NCERT Solutions: NCERT Exercise Questions. 5. VSA, SA & LA Questions: Sufficient Practice Questions divided into VSA, SA & LA type. . 6. Past Years Questions: Past 10 year Questions of Board Exams are also included. 7. HOTS/ Exemplar/ Value based Questions: High Order Thinking Skill Based, Moral Value Based and Selective NCERT Exemplar Questions included. 8. Chapter Test: A 25 marks test of 30 min. to assess your preparation in each chapter. 9 Important Formulae, Terms and Definitions 10.Full syllabus Sample Papers - 5 papers with detailed solutions designed exactly on the latest pattern of CBSE Board.",
+        "readingModes": { "text": false, "image": true },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uho3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uho3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=uho3DwAAQBAJ&printsec=frontcover&dq=10&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uho3DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uho3DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 0, "currencyCode": "PLN" },
+        "retailPrice": { "amount": 0, "currencyCode": "PLN" },
+        "buyLink": "https://play.google.com/store/books/details?id=uho3DwAAQBAJ&rdid=book-uho3DwAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/SAMPLE_10_in_One_Study_Package_for_CBSE-sample-pdf.acsm?id=uho3DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uho3DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book provides the excellent approach to Master the subject. The book has 10 key ingredients that will help you achieve success. 1. Chapter Utility Score 2. All India Board 2017 Solved Paper 3."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YwI1AQAAMAAJ",
+      "etag": "6IdXLpEwHso",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YwI1AQAAMAAJ",
+      "volumeInfo": {
+        "title": "I-10, 91st Ave to Junction I-10, Phoenix",
+        "subtitle": "Environmental Impact Statement",
+        "publishedDate": "1978",
+        "industryIdentifiers": [{ "type": "OTHER", "identifier": "NWU:35556030114029" }],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.full.1",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YwI1AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YwI1AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=YwI1AQAAMAAJ&pg=RA2-PA9&dq=10&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YwI1AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YwI1AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=YwI1AQAAMAAJ&rdid=book-YwI1AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/I_10_91st_Ave_to_Junction_I_10_Phoenix.epub?id=YwI1AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=YwI1AQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "V = A + BS Model Hydrocarbons Carbon Monoxide Nitrogen Oxides Location <br>\nYear А B С A B С A B Low Altitude 1957-1967 5.81 x 5.78 x <b>10</b> x <b>10</b>-4 0.808 <br>\n0.953 -6.00 x <b>10</b>-2 1.070-6.63 x <b>10</b>-2 x <b>10</b>-4 5.98 x <b>10</b>-4 5.80 x <b>10</b>-4 1968 0.967 -<br>\n6.07 x&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l33H8uXP5_YC",
+      "etag": "bm4GQU6rUTw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l33H8uXP5_YC",
+      "volumeInfo": {
+        "title": "Bioassay of C.I. Acid Orange 10 for Possible Carcinogenicity",
+        "publishedDate": "1981",
+        "industryIdentifiers": [{ "type": "OTHER", "identifier": "STANFORD:24501116273" }],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 129,
+        "printType": "BOOK",
+        "categories": ["Carcinogenesis"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.4.0.full.1",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=l33H8uXP5_YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=l33H8uXP5_YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=l33H8uXP5_YC&pg=PA8&dq=10&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=l33H8uXP5_YC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=l33H8uXP5_YC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=l33H8uXP5_YC&rdid=book-l33H8uXP5_YC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/Bioassay_of_C_I_Acid_Orange_10_for_Possi.epub?id=l33H8uXP5_YC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=l33H8uXP5_YC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "C . I . Acid Orange <b>10</b> in the 91 - Day Subchronic Study Weight Change Relative <br>\nto Controls ( b ) ( % ) Dose ( ppm ) Mean Body Weights ( grams ) Survival ( a ) . <br>\nInitial Final Gain Male 13 . 4 3 , 000 6 , 000 12 , 500 25 , 000 50 , 000 <b>10</b> / <b>10 10</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mpiTefpkl3wC",
+      "etag": "nzSA7Qil9u8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mpiTefpkl3wC",
+      "volumeInfo": {
+        "title": "A Progress Report on 10 + 10 Over 10",
+        "subtitle": "Hearing Before the Committee on Foreign Relations, United States Senate, One Hundred Seventh Congress, Second Session, October 9, 2002",
+        "authors": ["United States. Congress. Senate. Committee on Foreign Relations"],
+        "publishedDate": "2003",
+        "industryIdentifiers": [{ "type": "OTHER", "identifier": "STANFORD:36105050300339" }],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 91,
+        "printType": "BOOK",
+        "categories": ["Chemical arms control"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.4.0.full.1",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mpiTefpkl3wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mpiTefpkl3wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=mpiTefpkl3wC&pg=PA5&dq=10&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mpiTefpkl3wC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mpiTefpkl3wC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=mpiTefpkl3wC&rdid=book-mpiTefpkl3wC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/A_Progress_Report_on_10_+_10_Over_10.epub?id=mpiTefpkl3wC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=mpiTefpkl3wC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "On June 27 , 2002 , leaders of the G - 8 member states , attending a summit <br>\nmeeting in Canada , agreed to form and participate in a global partnership <br>\nagainst the spread of weapons and materials of mass destruction , also known as <br>\n“ <b>10</b> + <b>10</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v7XjDwAAQBAJ",
+      "etag": "G407bPlUDKE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v7XjDwAAQBAJ",
+      "volumeInfo": {
+        "title": "NEST (National Entrance Screening Test) 2021 | 10 Full length Mock Tests for Complete Preparation",
+        "authors": ["Rohit Manglik"],
+        "publisher": "EduGorilla Community Pvt. Ltd.",
+        "publishedDate": "2020-05-20",
+        "description": "National Entrance Screening Test (NEST) is conducted jointly by National Institute of Science Education and Research (NISER), Bhubaneswar and Mumbai University. The candidates that are able to successfully qualify the exams will be offered admission in the above mentioned prestigious universities. The NEST Exam is conducted annually to offer admission for Integrated MSc programme in Biology, Chemistry, Mathematics, Physics.",
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 210,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v7XjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v7XjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=v7XjDwAAQBAJ&pg=PA645&dq=10&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=v7XjDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=v7XjDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 10.67, "currencyCode": "PLN" },
+        "retailPrice": { "amount": 10.67, "currencyCode": "PLN" },
+        "buyLink": "https://play.google.com/store/books/details?id=v7XjDwAAQBAJ&rdid=book-v7XjDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 10670000, "currencyCode": "PLN" },
+            "retailPrice": { "amountInMicros": 10670000, "currencyCode": "PLN" }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/NEST_National_Entrance_Screening_Test_20-sample-pdf.acsm?id=v7XjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v7XjDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Natural rubber is not used in making footwear for polar regions because it <br>\nbecomes brittle at temperature lower than <b>10</b> ° C . 118 . The equilibrium constant <br>\n, k K1 Rate constant of forward reaction къ Rate constant of backward reaction K <br>\n= 1.5&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "33WLzQEACAAJ",
+      "etag": "a8HLKyJ4hrg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/33WLzQEACAAJ",
+      "volumeInfo": {
+        "title": "Koleżanki i Koledzy! [Inc.:] Dnia 9 - 10-go grudnia ogół członków przystąpi do wyborów władz Związku. Doświadczenie z działalności ustępującego Zarządu, jego nieróbstwo - stawia przed ogółem członków konieczność powołania do Zarządu takich ludzi, którzy zdolni byli Związek nasz przekształcić z dotychczasowego chaosu i bezplanowości - w potężną twierdzę walki klasowej, dla obrony dotychczasowych warunków pracy i płacy i walki o dalsze zdobycze [...]",
+        "publishedDate": "1934",
+        "industryIdentifiers": [{ "type": "OTHER", "identifier": "OCLC:1150378077" }],
+        "readingModes": { "text": false, "image": false },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=33WLzQEACAAJ&dq=10&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=33WLzQEACAAJ&dq=10&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kole%C5%BCanki_i_Koledzy_Inc_Dnia_9_10_go_gr.html?hl=&id=33WLzQEACAAJ"
+      },
+      "saleInfo": { "country": "PL", "saleability": "NOT_FOR_SALE", "isEbook": false },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=33WLzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qnRkAAAAMAAJ",
+      "etag": "lJOMo9Xngy4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qnRkAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Vietnamese; Basic Course: Guide to pronunciation and lessons 1-10",
+        "authors": ["Foreign Service Institute (U.S.)", "Eleanor Harz Jorden"],
+        "publishedDate": "1967",
+        "industryIdentifiers": [{ "type": "OTHER", "identifier": "UOM:39015005708394" }],
+        "readingModes": { "text": false, "image": true },
+        "printType": "BOOK",
+        "categories": ["Vietnamese language"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.full.1",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qnRkAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qnRkAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=qnRkAAAAMAAJ&pg=PA97&dq=10&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qnRkAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qnRkAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=qnRkAAAAMAAJ&rdid=book-qnRkAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/Vietnamese_Basic_Course_Guide_to_pronunc.epub?id=qnRkAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=qnRkAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Foreign Service Institute (U.S.), Eleanor Harz Jorden. LESSON 5 DRILLS B . <br>\nSubstitution Drill LESSON 5 LESSON 5 D . Transformation Drill EXAMPLE : A . <br>\nSubstitution Drill 1 . It &#39; s ( now ) <b>10</b> : 05 . Bây giờ mười giờ năm . 2 . It &#39; s <b>10</b> : <b>10</b> ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nFxFAQAAMAAJ",
+      "etag": "ncWLVYJr6JM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nFxFAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Nomination of Gary L.Seevers, Hearing Before ...,93-1 ...,July 10,1973110:1:United States",
+        "subtitle": "Congress",
+        "authors": ["United States Congress Senate Banking, Housing and Urban Affairs Committee"],
+        "publishedDate": "1973",
+        "industryIdentifiers": [{ "type": "OTHER", "identifier": "MINN:31951P01152580G" }],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nFxFAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nFxFAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=nFxFAQAAMAAJ&pg=PP1&dq=10&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nFxFAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nFxFAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=nFxFAQAAMAAJ&rdid=book-nFxFAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/Nomination_of_Gary_L_Seevers_Hearing_Bef.epub?id=nFxFAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=nFxFAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XIUhAQAAMAAJ",
+      "etag": "cY6ontcX4rw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XIUhAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Thermodynamic Properties of Helium from 6 to 540 ̊R Between 10 and 1500 Psia",
+        "authors": ["Douglas B. Mann"],
+        "publishedDate": "1962",
+        "industryIdentifiers": [{ "type": "OTHER", "identifier": "UCLA:L0065493512" }],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 89,
+        "printType": "BOOK",
+        "categories": ["Helium"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.full.1",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XIUhAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XIUhAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=XIUhAQAAMAAJ&printsec=frontcover&dq=10&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XIUhAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XIUhAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=XIUhAQAAMAAJ&rdid=book-XIUhAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/The_Thermodynamic_Properties_of_Helium_f.epub?id=XIUhAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=XIUhAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

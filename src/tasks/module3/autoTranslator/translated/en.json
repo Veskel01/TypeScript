@@ -1,0 +1,12 @@
+{
+  "attention": {
+    "title": "It's good that you are here, check this assignment",
+    "subtitle": "Help you understand how to change the language in reacta apps",
+    "ctaButton": "Learn more"
+  },
+  "newsletter ": {
+    " title ": " Stay up to date ",
+    " ctaButton ": " Go to repo -> ",
+    " action ": " / new-subscriber? lang = en "
+  }
+}

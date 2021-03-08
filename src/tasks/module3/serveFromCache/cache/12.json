@@ -1,0 +1,465 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 591,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "aIVkAAAAcAAJ",
+      "etag": "1kW97xkZZLc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aIVkAAAAcAAJ",
+      "volumeInfo": {
+        "title": "Kazanie miane w kosciele katedralnym Lwowskim dnia 12 go Czerwca 1848. (Na dochod Braci przybylych z tulactwa.) (Predigt.) pol",
+        "authors": ["Roman Zubrzycki"],
+        "publishedDate": "1848",
+        "industryIdentifiers": [{ "type": "OTHER", "identifier": "ONB:+Z207135903" }],
+        "readingModes": { "text": false, "image": true },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.full.1",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aIVkAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aIVkAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=aIVkAAAAcAAJ&pg=PA11&dq=12&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aIVkAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aIVkAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=aIVkAAAAcAAJ&rdid=book-aIVkAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=aIVkAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... i przed oblic czem mojem stać będziesz , będę lud o wi memu murem <br>\nmiedziannym - będą walczyć na cię , a nie przemogą , bom Ja z tobą - mówi Pa n <br>\n<b>12</b> ) Tę prawdę przedobraził naród , nasz Polski przez wszystkie wicki - <br>\nsłuchajcie !"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zB0wg8YAXa8C",
+      "etag": "osrUPnXRlPc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zB0wg8YAXa8C",
+      "volumeInfo": {
+        "title": "Zarządzanie Publiczne Nr 4 (12)/2010",
+        "publisher": "Wydawnictwo UJ",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9788323331971" },
+          { "type": "ISBN_10", "identifier": "8323331979" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zB0wg8YAXa8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zB0wg8YAXa8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=zB0wg8YAXa8C&printsec=frontcover&dq=12&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=zB0wg8YAXa8C&dq=12&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Zarz%C4%85dzanie_Publiczne_Nr_4_12_2010.html?hl=&id=zB0wg8YAXa8C"
+      },
+      "saleInfo": { "country": "PL", "saleability": "NOT_FOR_SALE", "isEbook": false },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=zB0wg8YAXa8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZuuGzQEACAAJ",
+      "etag": "jKuvyOikNzY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZuuGzQEACAAJ",
+      "volumeInfo": {
+        "title": "Obwieszczenie",
+        "subtitle": "Incipit: Na zasadzie § 12 Regulaminu Wyborczego do Rad Miejskich z dn. 30 marca 1934 roku (Dziennik ustaw Rzplitej Nr. 29 poz. 259) podaje się do publicznej wiadomości a) skład Głównej, Okręgowych i Obwodowych Komisji Wyborczych ... : Mława, dnia 2 września 1936 r",
+        "publishedDate": "1936",
+        "industryIdentifiers": [{ "type": "OTHER", "identifier": "OCLC:1150510246" }],
+        "readingModes": { "text": false, "image": false },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=ZuuGzQEACAAJ&dq=12&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=ZuuGzQEACAAJ&dq=12&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Obwieszczenie.html?hl=&id=ZuuGzQEACAAJ"
+      },
+      "saleInfo": { "country": "PL", "saleability": "NOT_FOR_SALE", "isEbook": false },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZuuGzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nhZIAQAAIAAJ",
+      "etag": "QJqNMo5FfEA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nhZIAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Navy V-12 Bulletin",
+        "authors": ["United States. Bureau of Naval Personnel"],
+        "publishedDate": "1943",
+        "industryIdentifiers": [{ "type": "OTHER", "identifier": "STANFORD:36105113789270" }],
+        "readingModes": { "text": false, "image": true },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nhZIAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nhZIAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=nhZIAQAAIAAJ&pg=PA94&dq=12&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nhZIAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nhZIAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=nhZIAQAAIAAJ&rdid=book-nhZIAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/Navy_V_12_Bulletin.epub?id=nhZIAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=nhZIAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Students entering college as freshmen in class V - <b>12</b> — academic procedures <br>\nrelating to .-- . A and C 67. Students transferred from classes V - 1 and V - 7 to V - <br>\n<b>12</b> , academic procedures relating to ---- A and C 68. Purchase and handling of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uho3DwAAQBAJ",
+      "etag": "4d/lYpV/DCE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uho3DwAAQBAJ",
+      "volumeInfo": {
+        "title": "(SAMPLE) 10 in One Study Package for CBSE Mathematics Class 12 with 5 Model Papers",
+        "subtitle": "",
+        "authors": ["Disha Experts"],
+        "publisher": "Disha Publications",
+        "description": "10 in ONE CBSE Study Package Mathematics class 12 with 5 Sample Papers is another innovative initiative from Disha Publication. This book provides the excellent approach to Master the subject. The book has 10 key ingredients that will help you achieve success. 1. Chapter Utility Score 2. All India Board 2017 Solved Paper 3. Exhaustive theory based on the syllabus of NCERT books along with the concept maps for the bird's eye view of the chapter. 4. NCERT Solutions: NCERT Exercise Questions. 5. VSA, SA & LA Questions: Sufficient Practice Questions divided into VSA, SA & LA type. . 6. Past Years Questions: Past 10 year Questions of Board Exams are also included. 7. HOTS/ Exemplar/ Value based Questions: High Order Thinking Skill Based, Moral Value Based and Selective NCERT Exemplar Questions included. 8. Chapter Test: A 25 marks test of 30 min. to assess your preparation in each chapter. 9 Important Formulae, Terms and Definitions 10.Full syllabus Sample Papers - 5 papers with detailed solutions designed exactly on the latest pattern of CBSE Board.",
+        "readingModes": { "text": false, "image": true },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uho3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uho3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=uho3DwAAQBAJ&printsec=frontcover&dq=12&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uho3DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uho3DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 0, "currencyCode": "PLN" },
+        "retailPrice": { "amount": 0, "currencyCode": "PLN" },
+        "buyLink": "https://play.google.com/store/books/details?id=uho3DwAAQBAJ&rdid=book-uho3DwAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/SAMPLE_10_in_One_Study_Package_for_CBSE-sample-pdf.acsm?id=uho3DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uho3DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book provides the excellent approach to Master the subject. The book has 10 key ingredients that will help you achieve success. 1. Chapter Utility Score 2. All India Board 2017 Solved Paper 3."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qll5zQEACAAJ",
+      "etag": "5cksxQZhqZo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qll5zQEACAAJ",
+      "volumeInfo": {
+        "title": "Afisz",
+        "subtitle": "Inc.: Sobota, dnia 12 października b.r., o godz. 15.15 towarzyski mecz piłki nożnej pomiędzy WKS. Siedlce Siedlce - KKS. Sygnał Lublin ...",
+        "publishedDate": "1946",
+        "industryIdentifiers": [{ "type": "OTHER", "identifier": "OCLC:1150370857" }],
+        "readingModes": { "text": false, "image": false },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=Qll5zQEACAAJ&dq=12&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=Qll5zQEACAAJ&dq=12&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Afisz.html?hl=&id=Qll5zQEACAAJ"
+      },
+      "saleInfo": { "country": "PL", "saleability": "NOT_FOR_SALE", "isEbook": false },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qll5zQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NIqEf2mOoKQC",
+      "etag": "CFxeBMraUiY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NIqEf2mOoKQC",
+      "volumeInfo": {
+        "title": "Lunar Sample Information Catalog, Apollo 12",
+        "publishedDate": "1970",
+        "industryIdentifiers": [{ "type": "OTHER", "identifier": "IND:30000138106905" }],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 317,
+        "printType": "BOOK",
+        "categories": ["Lunar petrology"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.full.1",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NIqEf2mOoKQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NIqEf2mOoKQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=NIqEf2mOoKQC&pg=PA38&dq=12&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NIqEf2mOoKQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NIqEf2mOoKQC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=NIqEf2mOoKQC&rdid=book-NIqEf2mOoKQC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/Lunar_Sample_Information_Catalog_Apollo.epub?id=NIqEf2mOoKQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=NIqEf2mOoKQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The sample is exceptionally well documented by Hasselblad photographs <b>AS12</b>-<br>\n48-7189 and <b>AS12</b>-48-7190 , taken by Astronaut Conrad , and <b>AS12</b>-48-7048 ( <br>\nfig . 6 ( a ) ) , taken by Astronaut Bean before it was collected . The site of this&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lZY1AQAAMAAJ",
+      "etag": "teUKQXqLES8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lZY1AQAAMAAJ",
+      "volumeInfo": {
+        "title": "US-12 Trail Creek Bridge Replacement, Michigan City",
+        "subtitle": "Environmental Impact Statement",
+        "publishedDate": "1985",
+        "industryIdentifiers": [{ "type": "OTHER", "identifier": "NWU:35556030134381" }],
+        "readingModes": { "text": false, "image": true },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lZY1AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lZY1AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=lZY1AQAAMAAJ&pg=PA1&dq=12&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lZY1AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lZY1AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=lZY1AQAAMAAJ&rdid=book-lZY1AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/US_12_Trail_Creek_Bridge_Replacement_Mic.epub?id=lZY1AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=lZY1AQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "U.S. <b>12</b> REALIGNMENT AND BRIDGE REPLACEMENT OVER TRAIL CREEK It <br>\nis proposed to replace the existing U.S. <b>12</b> moveable bridge over Trail Creek in <br>\nMichigan City with a fixed structure on new alignment . A 45 foot clearance over&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nOx7dAX7hg8C",
+      "etag": "viI08llF3T0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nOx7dAX7hg8C",
+      "volumeInfo": {
+        "title": "Testing the Anti-drug Message in 12 American Cities",
+        "subtitle": "National Youth Anti-Drug Media Campaign",
+        "publishedDate": "1998",
+        "industryIdentifiers": [{ "type": "OTHER", "identifier": "PURD:32754071092955" }],
+        "readingModes": { "text": false, "image": true },
+        "printType": "BOOK",
+        "categories": ["Children"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.full.1",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nOx7dAX7hg8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nOx7dAX7hg8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=nOx7dAX7hg8C&pg=PA490&dq=12&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nOx7dAX7hg8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nOx7dAX7hg8C"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=nOx7dAX7hg8C&rdid=book-nOx7dAX7hg8C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/Testing_the_Anti_drug_Message_in_12_Amer.epub?id=nOx7dAX7hg8C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=nOx7dAX7hg8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... 0.37 10-19 times 2 0.41 2 0.39 4 0.68 3 0.51 3 0.41 3 0.31 Alcohol - past <b>12</b> <br>\nmonths 41 2.51 40 1.90 41 2.17 41 2.27 41 2.22 40 1.85 <b>12</b> 0.94 11 0.91 13 0.82 <br>\n<b>12</b> 0.81 <b>12</b> 0.60 11 0.63 11 0.89 <b>12</b> 0.94 14 0.94 14 1.12 <b>12</b> 0.76 13 0.66 4-9 <br>\ntimes&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "la41AQAAMAAJ",
+      "etag": "SI9kHIrfdDw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/la41AQAAMAAJ",
+      "volumeInfo": {
+        "title": "SH Spur 303, FM-1382 in Grand Prairie to Loop 12 in Dallas, Dallas County",
+        "subtitle": "Environmental Impact Statement",
+        "publishedDate": "1970",
+        "industryIdentifiers": [{ "type": "OTHER", "identifier": "NWU:35556030804710" }],
+        "readingModes": { "text": false, "image": true },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": { "containsEpubBubbles": false, "containsImageBubbles": false },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=la41AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=la41AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=la41AQAAMAAJ&printsec=frontcover&dq=12&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=la41AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=la41AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=la41AQAAMAAJ&rdid=book-la41AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/SH_Spur_303_FM_1382_in_Grand_Prairie_to.epub?id=la41AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=la41AQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

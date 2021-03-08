@@ -1,0 +1,715 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 1238,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "3BstGUEWxu4C",
+            "etag": "YKv0+6TrlgQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/3BstGUEWxu4C",
+            "volumeInfo": {
+                "title": "Rules and Regulations for Small Passenger Vessels Under 100 Gross Tons",
+                "authors": [
+                    "United States. Coast Guard"
+                ],
+                "publishedDate": "1961",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015024407069"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "Ships"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.0.3.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=3BstGUEWxu4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=3BstGUEWxu4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.pl/books?id=3BstGUEWxu4C&pg=PA56&dq=100&hl=&cd=1&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=3BstGUEWxu4C&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3BstGUEWxu4C"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=3BstGUEWxu4C&rdid=book-3BstGUEWxu4C&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.pl/books/download/Rules_and_Regulations_for_Small_Passenge.epub?id=3BstGUEWxu4C&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=3BstGUEWxu4C&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "00 62 . 50 65 . 00 67 . 50 70 . 00 72 . 50 9 10 9000 CO CON RRRRR <b>100 100</b> 70 <br>\n<b>100 100 100 100 100</b> 125 <b>100 100</b> 110 110 125 125 125 150 <b>100 100 100 100</b> <br>\n<b>100 100 100 100 100</b> 125 110 <b>100</b> 110 110 125 125 125 125 150 150 150 175&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "C4DuAAAAMAAJ",
+            "etag": "oJ1b7K7VkSU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/C4DuAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Base (100-year) Flood Elevations for Selected Sites in Livingston County, Missouri",
+                "authors": [
+                    "Rodney E. Southard",
+                    "Joseph M. Richards"
+                ],
+                "publishedDate": "2002",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015056444188"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 34,
+                "printType": "BOOK",
+                "categories": [
+                    "Flood forecasting"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.2.5.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=C4DuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=C4DuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.pl/books?id=C4DuAAAAMAAJ&pg=PP8&dq=100&hl=&cd=2&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=C4DuAAAAMAAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C4DuAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=C4DuAAAAMAAJ&rdid=book-C4DuAAAAMAAJ&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.pl/books/download/Base_100_year_Flood_Elevations_for_Selec.epub?id=C4DuAAAAMAAJ&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=C4DuAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Location of base ( <b>100</b> - year ) flood elevation sites in Livingston County , <br>\nMissouri . 2 . Shoal Creek base ( <b>100</b> - year ) flood elevation site ( BFE 1 ) and <br>\nShoal Creek Drainage Ditch base ( <b>100</b> - year ) flood elevation site ( BFE 2 ) near <br>\nDawn&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "YhvyNdmmboUC",
+            "etag": "cRa+/HKGDXk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/YhvyNdmmboUC",
+            "volumeInfo": {
+                "title": "The 100% Temporary Disability Rating",
+                "subtitle": "An Examination of Its Effective Use : Hearing Before the Subcommittee on Disability Assistance and Memorial Affairs of the Committee on Veterans' Affairs, U.S. House of Representatives, One Hundred Thirteenth Congress, First Session, Tuesday, February 5, 2013",
+                "authors": [
+                    "United States. Congress. House. Committee on Veterans' Affairs. Subcommittee on Disability Assistance and Memorial Affairs"
+                ],
+                "publishedDate": "2013",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "MINN:31951D03647194Z"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 34,
+                "printType": "BOOK",
+                "categories": [
+                    "Disability evaluation"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.2.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=YhvyNdmmboUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=YhvyNdmmboUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.pl/books?id=YhvyNdmmboUC&pg=PA30&dq=100&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=YhvyNdmmboUC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YhvyNdmmboUC"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=YhvyNdmmboUC&rdid=book-YhvyNdmmboUC&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.pl/books/download/The_100_Temporary_Disability_Rating.epub?id=YhvyNdmmboUC&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=YhvyNdmmboUC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Errors in Processing Temporary <b>100</b> Percent Disability Evaluations and <br>\nAssociated Overpayments and Underpayments Identified In 53 VARO Inspection <br>\nReports Since 2009 53 VAROS ( in rank order by percent of errors ) Total <br>\nTemporary <b>100</b>&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "FN83AQAAMAAJ",
+            "etag": "7E2do6IOm90",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/FN83AQAAMAAJ",
+            "volumeInfo": {
+                "title": "Transportation Improvement Study-Routes 9 and 100 (NH-010-1(33)), Windham County",
+                "subtitle": "Environmental Impact Statement",
+                "publishedDate": "2004",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "NWU:35556043257153"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 6,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.3.3.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=FN83AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=FN83AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.pl/books?id=FN83AQAAMAAJ&pg=PP252&dq=100&hl=&cd=4&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=FN83AQAAMAAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FN83AQAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=FN83AQAAMAAJ&rdid=book-FN83AQAAMAAJ&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.pl/books/download/Transportation_Improvement_Study_Routes.epub?id=FN83AQAAMAAJ&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=FN83AQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "... RT <b>100N</b> 2005 FALL CASTLE HILL HAYSTACK ALT date : 12-08-1995 time : <br>\n15:36:13 LAST DATA SET NAMES LOADED OR SAVED VOLUME = chavost <br>\nGEOMETRICS = chayo5f SIGNAL = chayo5f LOCATED IN CBD : Y VOLUME&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "tRxJAAAAYAAJ",
+            "etag": "tottYgh96+w",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/tRxJAAAAYAAJ",
+            "volumeInfo": {
+                "title": "Characteristics of the 100 Largest Public Elementary and Secondary School Districts in the United States",
+                "publishedDate": "2006",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "CORNELL:31924104471473"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "School districts"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "2.1.3.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=tRxJAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=tRxJAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.pl/books?id=tRxJAAAAYAAJ&pg=PA4&dq=100&hl=&cd=5&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=tRxJAAAAYAAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tRxJAAAAYAAJ"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=tRxJAAAAYAAJ&rdid=book-tRxJAAAAYAAJ&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.pl/books/download/Characteristics_of_the_100_Largest_Publi.epub?id=tRxJAAAAYAAJ&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=tRxJAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "About three - quarters of the <b>100</b> largest school districts were located in coastal <br>\nand Gulf Coast states ( see table D - 3 for a count of the <b>100</b> largest districts by <br>\nstate ) . The school districts among the <b>100</b> largest also tended to be in cities and<br>\n&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "XCZvBgAAQBAJ",
+            "etag": "uVSTRVxVwR4",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/XCZvBgAAQBAJ",
+            "volumeInfo": {
+                "title": "Metoda 100. Licz tylko kalorie cukrowe",
+                "authors": [
+                    "Jorge Cruise"
+                ],
+                "publisher": "Virtualo",
+                "publishedDate": "2014-02-18",
+                "description": "Bestseller na listach New York Timesa!!! To nie tylko kolejna modna dieta. To prawdziwa rewolucja w sposobie odżywiania i liczenia kalorii. Dieta 100 kalorii cukrowych, czyli „metoda stu” to prawdziwa rewolucja w dietetyce! Jej twórca, Jorge Cruise, ekspert fitness i autor kilku bestsellerów, obiecuje utratę nawet 9 kg w 2 tygodnie! A wszystko to tylko dzięki liczeniu i ograniczeniu kalorii pochodzących z cukru. Ich dzienne spożycie nie powinno przekroczyć 100. Zgodnie z teorią Cruise’a nie wszystkie kalorie są sobie równe, a ludzkie ciało nie funkcjonuje na bazie prostego przelicznika wartości energetycznych. Z tej książki dowiemy się, jak można zmienić swoje nawyki żywieniowe. Znajdziemy w niej praktyczne listy zakupów, informacje na temat poszczególnych produktów oraz przepisy. Nauczymy się również, jak prawidłowo czytać etykiety żywnościowe.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788378813248"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "837881324X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 368,
+                "printType": "BOOK",
+                "categories": [
+                    "Law"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.5.4.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=XCZvBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=XCZvBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "pl",
+                "previewLink": "http://books.google.pl/books?id=XCZvBgAAQBAJ&pg=PT171&dq=100&hl=&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=XCZvBgAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XCZvBgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 31.9,
+                    "currencyCode": "PLN"
+                },
+                "retailPrice": {
+                    "amount": 21.69,
+                    "currencyCode": "PLN"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=XCZvBgAAQBAJ&rdid=book-XCZvBgAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 31900000,
+                            "currencyCode": "PLN"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 21690000,
+                            "currencyCode": "PLN"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=XCZvBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "W kolejnych trzech rozdziałach przedstawiam informacje, które pomogą uczynić <br>\nMetodę <b>100TM</b> częścią nowego stylu życia w taki sposób, byście nie czuli się nim <br>\nograniczeni. Najpierw zaprezentuję Metodę <b>100TM</b> Plus – przeznaczony na&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "W92gAAAAMAAJ",
+            "etag": "VDT3rk9bKmY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/W92gAAAAMAAJ",
+            "volumeInfo": {
+                "title": "Report of the Adjutant General of Pennsylvania",
+                "authors": [
+                    "Pennsylvania. Adjutant-General's Office"
+                ],
+                "publishedDate": "1882",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:39015076666802"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "Pennsylvania"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.3.0.full.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=W92gAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=W92gAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.pl/books?id=W92gAAAAMAAJ&pg=PA47&dq=100&hl=&cd=7&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=W92gAAAAMAAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=W92gAAAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "FREE",
+                "isEbook": true,
+                "buyLink": "https://play.google.com/store/books/details?id=W92gAAAAMAAJ&rdid=book-W92gAAAAMAAJ&rdot=1&source=gbs_api"
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "ALL_PAGES",
+                "embeddable": true,
+                "publicDomain": true,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false,
+                    "downloadLink": "http://books.google.pl/books/download/Report_of_the_Adjutant_General_of_Pennsy.epub?id=W92gAAAAMAAJ&hl=&output=epub&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "downloadLink": "http://books.google.pl/books/download/Report_of_the_Adjutant_General_of_Pennsy.pdf?id=W92gAAAAMAAJ&hl=&output=pdf&sig=ACfU3U3HCod4c_UyMIHBVYg4fLZh_bp6SA&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=W92gAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "4 H . <b>100</b> 7 . 9 | | | 81 . 1 | 4 2 . 5 美国 11 1001 10 <b>100 100 100 100 100 100 100</b> <br>\n<b>100</b> 0 0 <b>100 100</b> 0 99 . 4 7 . 1 46 6 . 5 89 . 3 K , 1 . . . . . . . . . . . . . . . . . 6 | <b>100</b> | | 90 <br>\n00 . . . . . <b>100</b> . - .单.单 D . . <b>100</b> . . . . . Second Regiment Infantry , Field and Staff , ."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "MPD5c5FTtGEC",
+            "etag": "9lMAJ8izl5A",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/MPD5c5FTtGEC",
+            "volumeInfo": {
+                "title": "Szanty. Złota 100",
+                "publisher": "Wielki Błękit",
+                "publishedDate": "2008",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788361217053"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "8361217053"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 116,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.1.0.0.preview.1",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=MPD5c5FTtGEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=MPD5c5FTtGEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "pl",
+                "previewLink": "http://books.google.pl/books?id=MPD5c5FTtGEC&pg=PA5&dq=100&hl=&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.pl/books?id=MPD5c5FTtGEC&dq=100&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Szanty_Z%C5%82ota_100.html?hl=&id=MPD5c5FTtGEC"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=MPD5c5FTtGEC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "HxDXxRy_zV4C",
+            "etag": "1fwKTZmmwD8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/HxDXxRy_zV4C",
+            "volumeInfo": {
+                "title": "Szanty. Złota 100 BIS",
+                "publisher": "Wielki Błękit",
+                "publishedDate": "2008",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788361217060"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "8361217061"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 116,
+                "printType": "BOOK",
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=HxDXxRy_zV4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=HxDXxRy_zV4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "pl",
+                "previewLink": "http://books.google.pl/books?id=HxDXxRy_zV4C&pg=PA57&dq=100&hl=&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.pl/books?id=HxDXxRy_zV4C&dq=100&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Szanty_Z%C5%82ota_100_BIS.html?hl=&id=HxDXxRy_zV4C"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=HxDXxRy_zV4C&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "YEBjAgAAQBAJ",
+            "etag": "T9PLXjCo5BI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/YEBjAgAAQBAJ",
+            "volumeInfo": {
+                "title": "100 sekretów. Mistrza Sprzedaży",
+                "authors": [
+                    "Arkadiusz Bednarski"
+                ],
+                "publisher": "Helion",
+                "publishedDate": "2013-10-07",
+                "description": "100 zasad, którymi dzieli się z Tobą Mistrz Sprzedaży, to niezbędnik wybitnego handlowca. Czasem zasady wydadzą Ci się oczywiste, czasem odkrywcze, a przy niektórych zatrzymasz się i powiesz: \"To jest to!\". Rady zamieszczone w tej książce są krótkie i treściwe. Stworzone specjalnie dla Ciebie człowieka zajętego, zawsze w biegu, który nie ma czasu na zagłębianie się w filozoficzne dywagacje. Przeczytaj je, a spojrzysz na sprzedawanie z innej strony, będziesz w nowy sposób myśleć o swojej pracy, klientach, ich celach i oczekiwaniach.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788324686506"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "8324686509"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 100,
+                "printType": "BOOK",
+                "categories": [
+                    "Business & Economics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.4.3.0.preview.3",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=YEBjAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=YEBjAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "pl",
+                "previewLink": "http://books.google.pl/books?id=YEBjAgAAQBAJ&pg=PA11&dq=100&hl=&cd=10&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=YEBjAgAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YEBjAgAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "PL",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 19.9,
+                    "currencyCode": "PLN"
+                },
+                "retailPrice": {
+                    "amount": 14.92,
+                    "currencyCode": "PLN"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=YEBjAgAAQBAJ&rdid=book-YEBjAgAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 19900000,
+                            "currencyCode": "PLN"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 14920000,
+                            "currencyCode": "PLN"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "PL",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.pl/books/download/100_sekret%C3%B3w_Mistrza_Sprzeda%C5%BCy-sample-epub.acsm?id=YEBjAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.pl/books/download/100_sekret%C3%B3w_Mistrza_Sprzeda%C5%BCy-sample-pdf.acsm?id=YEBjAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=YEBjAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        }
+    ]
+}

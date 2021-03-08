@@ -1,0 +1,5 @@
+node_modules
+build
+package-lock.json
+yarn.lock
+src/tasks/module3/autoTranslator/autotranslator-305214-d9bc0c5f938f.json

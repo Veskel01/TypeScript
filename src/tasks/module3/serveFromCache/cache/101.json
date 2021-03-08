@@ -1,0 +1,680 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 481,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "HaQ1AQAAMAAJ",
+      "etag": "O54+YXHdj0I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HaQ1AQAAMAAJ",
+      "volumeInfo": {
+        "title": "CA-101/Cuesta Grade Highway Improvements, 1.1 Miles North of Reservoir Canyon Road to the Cuesta Grade Overhead, San Luis Obispo County",
+        "subtitle": "Environmental Impact Statement",
+        "publishedDate": "1998",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NWU:35556030111660"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HaQ1AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HaQ1AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=HaQ1AQAAMAAJ&pg=SA3-PA41&dq=101&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HaQ1AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HaQ1AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=HaQ1AQAAMAAJ&rdid=book-HaQ1AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/CA_101_Cuesta_Grade_Highway_Improvements.epub?id=HaQ1AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HaQ1AQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The transportation pattern within the project area is dominated by U.S. Route <b>101</b><br>\n. It is the primary artery used by commuters and other area residents to the <br>\nemployment and retail center in the City of San Luis Obispo . It is also San Luis <br>\nObispo&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7vo0AQAAMAAJ",
+      "etag": "xld/PkJRzY0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7vo0AQAAMAAJ",
+      "volumeInfo": {
+        "title": "U.S. Highway 101 Improvement Project, Vineyard Avenue to Johnson Drive, Cities of Oxnard and San Buenaventura, Ventura County",
+        "subtitle": "Environmental Impact Statement",
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NWU:35556030112130"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7vo0AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7vo0AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=7vo0AQAAMAAJ&pg=RA1-SA2-PA7&dq=101&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7vo0AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7vo0AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=7vo0AQAAMAAJ&rdid=book-7vo0AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/U_S_Highway_101_Improvement_Project_Vine.epub?id=7vo0AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7vo0AQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Oxnard Boulevard would be extended north of Route <b>101</b> to provide access to <br>\nthe Oxnard Town Center . The Oxnard Town Center is a professional office and <br>\ncommercial center currently in the early phases of development . Oxnard <br>\nBoulevard&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RMU1AQAAMAAJ",
+      "etag": "VRvqphFO7fk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RMU1AQAAMAAJ",
+      "volumeInfo": {
+        "title": "US 101 Highway Aberdeen-Hoquiam Corridor Project, Grays Harbor County",
+        "subtitle": "Environmental Impact Statement",
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NWU:35556031865876"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RMU1AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RMU1AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=RMU1AQAAMAAJ&pg=RA3-PP3&dq=101&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RMU1AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RMU1AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=RMU1AQAAMAAJ&rdid=book-RMU1AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/US_101_Highway_Aberdeen_Hoquiam_Corridor.epub?id=RMU1AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RMU1AQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Appendix C River Crossing Alternatives Introduction US <b>101</b> / US 12 Connection <br>\nand Wishkah River Crossing Improvements discussed in this appendix <br>\nconcerning the proposed new Wishkah River crossing and completion of the US <br>\n<b>101</b> / US&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HQs1AQAAMAAJ",
+      "etag": "pjfyu7l6LrA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HQs1AQAAMAAJ",
+      "volumeInfo": {
+        "title": "US 101 High Occupancy Vehicle (HOV) Gap Closure Project, Marin Cuunty",
+        "subtitle": "Environmental Impact Statement",
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NWU:35556031863046"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 4,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HQs1AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HQs1AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=HQs1AQAAMAAJ&pg=RA1-PA42&dq=101&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HQs1AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HQs1AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=HQs1AQAAMAAJ&rdid=book-HQs1AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/US_101_High_Occupancy_Vehicle_HOV_Gap_Cl.epub?id=HQs1AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HQs1AQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Another is a timber trestle over Bellam Boulevard and under US <b>101</b> , dating to <br>\nthe 1950s . The third is an approximately 610 meter ( 2,000 foot ) section of <br>\nNWPR right of way , with intermittent track , north of Sir Francis Drake Boulevard ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Jh4UIQtKx2oC",
+      "etag": "ZGL/REkK5K0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jh4UIQtKx2oC",
+      "volumeInfo": {
+        "title": "Statistics of Public School Systems in 101 of the Most Rural Countries, 1955-56",
+        "authors": [
+          "United States. Office of Education"
+        ],
+        "publishedDate": "1958",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951000948705K"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 23,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jh4UIQtKx2oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jh4UIQtKx2oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=Jh4UIQtKx2oC&pg=PA1&dq=101&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Jh4UIQtKx2oC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Jh4UIQtKx2oC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Jh4UIQtKx2oC&rdid=book-Jh4UIQtKx2oC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.pl/books/download/Statistics_of_Public_School_Systems_in_1.epub?id=Jh4UIQtKx2oC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jh4UIQtKx2oC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The following facts , drawn from the educational statistics for <b>101</b> of the most rural <br>\ncounties in the United States , illustrate these wide variations : One county paid <br>\nits instructional staff an average salary of as little as $ 1,676 ; another , as much&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UR1KbBf58BUC",
+      "etag": "5I+SZPbJs0A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UR1KbBf58BUC",
+      "volumeInfo": {
+        "title": "101 How-to Favorites",
+        "authors": [
+          "Florists' Review"
+        ],
+        "publisher": "Florists' Review",
+        "publishedDate": "2000",
+        "description": "\"Easy-to-understand, three-step how-to's you will use every day\"--Cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0965414965"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780965414968"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Flower arrangement"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UR1KbBf58BUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UR1KbBf58BUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.pl/books?id=UR1KbBf58BUC&printsec=frontcover&dq=101&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=UR1KbBf58BUC&dq=101&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/101_How_to_Favorites.html?hl=&id=UR1KbBf58BUC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UR1KbBf58BUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Easy-to-understand, three-step how-to&#39;s you will use every day&quot;--Cover."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bTrkrQEACAAJ",
+      "etag": "/DF+JCxgld8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bTrkrQEACAAJ",
+      "volumeInfo": {
+        "title": "101 przepisów",
+        "subtitle": "książka kucharska. Pizze i tarty : plus sezon na... młodą kapustę",
+        "authors": [
+          "Wydawnictwo Bauer"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:894958164"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=bTrkrQEACAAJ&dq=101&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=bTrkrQEACAAJ&dq=101&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/101_przepis%C3%B3w.html?hl=&id=bTrkrQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bTrkrQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bWo7AQAAIAAJ",
+      "etag": "Flvjl0YVY/E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bWo7AQAAIAAJ",
+      "volumeInfo": {
+        "title": "West's Pacific Digest, Beginning 101 P.",
+        "publishedDate": "1962",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105060118614"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Law reports, digests, etc"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bWo7AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bWo7AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=bWo7AQAAIAAJ&q=101&dq=101&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=bWo7AQAAIAAJ&dq=101&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/West_s_Pacific_Digest_Beginning_101_P.html?hl=&id=bWo7AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bWo7AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RFWshfCaRg8C",
+      "etag": "q7WRNXJmnaw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RFWshfCaRg8C",
+      "volumeInfo": {
+        "title": "Military Wives 101",
+        "authors": [
+          "Tynisa Gaines"
+        ],
+        "publisher": "AuthorHouse",
+        "publishedDate": "2002-07-01",
+        "description": "At this period in time, as our consciousness unfolds, we are rediscovering our True Self. This story is about how the unfoldment takes place in your daily life. Come along with us in this adventure of ALL IN A NUTSHELL, as we explore how the process of transmutation of the cosmic cell and Consciousness has been going on since the beginning of time until it has reached its' present form in the human body. It is as important to know this as is going to grade school before entering college. For, as our Consciousness or awareness of life unfolds, we are better able to understand life and to think for ourselves. This releases us from the instinctual control of Nature to become Master of our own life. In these unique and interesting chapters of ALL IN A NUTSHELL, we have woven together the many facets of life from the many viewpoints of Science, Spiritual beliefs, Philosophy and others, to show how they all work together to make up the interesting story of your daily life, because this is where it all takes place. We discuss how our thoughts, feelings and emotions are recorded in the bookkeeping system of Gods (the Creator) Mind, just as our memories are impressed on our mind; just as a camera records your picture on its film. This keeps us in constant contact with the Creator. In some other chapters we explain how our mind and body are 'constructed and connected' to the invisible dimension of Soul and Spirit to bring forth our wishes and dreams; our invisible cube of light home that surrounds us; and how rhythm and the law of balance work together bringing harmony into our life. Our first chapter sets the stage for the scientific explanation of the colorful chapters that follow. As these new levels of awareness unfold to us, our extra sensory perception expands, and our intuition and ability to create a better life increases; always keeping in mind that as each new level of awareness unfolds itself to us, it also reveals itself to be the Truth.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781403303196"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1403303193"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RFWshfCaRg8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RFWshfCaRg8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=RFWshfCaRg8C&dq=101&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=RFWshfCaRg8C&dq=101&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Military_Wives_101.html?hl=&id=RFWshfCaRg8C"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RFWshfCaRg8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hvI_CgAAQBAJ",
+      "etag": "2SmPkaXBAhs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hvI_CgAAQBAJ",
+      "volumeInfo": {
+        "title": "101 Amazing Facts about Kendall and Kylie",
+        "authors": [
+          "Jack Goldstein",
+          "Frankie Taylor"
+        ],
+        "publisher": "Andrews UK Limited",
+        "publishedDate": "2015-04-30",
+        "description": "For those who just can’t get enough of the Kardashians and the Jenners, this is the perfect book for you! With over one hundred facts about not just Kendall and Kylie but the rest of the Klan as well - including their father Bruce’s transition into a woman - this is a great read which you can pick up and put down at your leisure. If you enjoy spending time reading the latest celebrity gossip, you’ll love finding out even more about the legendary sisters, their family, fashion, fun facts and shocking moments! Easily organised into sections so you can find the information you want fast, this is an unmissable addition to any fan’s bookshelf.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781785381850"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1785381857"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 29,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hvI_CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hvI_CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=hvI_CgAAQBAJ&printsec=frontcover&dq=101&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hvI_CgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hvI_CgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11.72,
+          "currencyCode": "PLN"
+        },
+        "retailPrice": {
+          "amount": 11.72,
+          "currencyCode": "PLN"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hvI_CgAAQBAJ&rdid=book-hvI_CgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11720000,
+              "currencyCode": "PLN"
+            },
+            "retailPrice": {
+              "amountInMicros": 11720000,
+              "currencyCode": "PLN"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/101_Amazing_Facts_about_Kendall_and_Kyli-sample-epub.acsm?id=hvI_CgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/101_Amazing_Facts_about_Kendall_and_Kyli-sample-pdf.acsm?id=hvI_CgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hvI_CgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For those who just can’t get enough of the Kardashians and the Jenners, this is the perfect book for you!"
+      }
+    }
+  ]
+}
