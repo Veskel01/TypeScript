@@ -1,7 +1,6 @@
-interface ISwitch<T> {
-  cases: boolean[];
-  conditions: (() => T)[];
-  add: (condition: boolean, callback: () => T) => void;
+interface ISwitch {
+  cases: caseTuple[];
+  add: (condition: boolean, onErrorCallback: () => void) => void;
   isValid: () => boolean | undefined;
 }
 
@@ -9,19 +8,26 @@ const errorHandler = (error: string): void => {
   throw new Error(error);
 };
 
-class Switch<T> implements ISwitch<T> {
-  public cases: boolean[];
-  public conditions: (() => T)[];
+// single case = [boolean, fn]
+
+// type tuple = [boolean, function]
+
+// condition = boolean
+// onErrorCallback = function
+
+// //.add ( [true/false, errorFn] )
+
+type caseTuple = [boolean, () => void];
+
+class Switch implements ISwitch {
+  cases: caseTuple[];
   constructor() {
     this.cases = [];
-    this.conditions = [];
   }
 
-  public add(condition: boolean, callback: () => T): void {
-    this.cases.push(condition);
-    if (condition === true) {
-      this.conditions.push(callback);
-    }
+  public add(condition: boolean, onErrorCallback: () => void): void {
+    const caseTuple: caseTuple = [condition, onErrorCallback];
+    this.cases.push(caseTuple);
   }
 
   public isValid(): boolean | undefined {
@@ -29,10 +35,11 @@ class Switch<T> implements ISwitch<T> {
       errorHandler(`Array of cases is empty`);
     } else {
       for (let i: number = 0; i < this.cases.length; i++) {
-        const element: boolean = this.cases[i];
-        if (element === true) {
+        const caseCondition: boolean = this.cases[i][0];
+        const caseCallback: () => void = this.cases[i][1];
+        if (caseCondition == true) {
+          caseCallback();
           this.cases.splice(i);
-          this.conditions.forEach((value: () => T) => value());
           return false;
         }
         return true;
