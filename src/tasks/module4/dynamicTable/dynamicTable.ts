@@ -1,4 +1,3 @@
-import { data } from './data';
-console.log(data);
+import { data, IData } from "./data";
 
-console.log(3);
+const dynamicTable: HTMLDivElement | null = document.querySelector(".dynamic-table");

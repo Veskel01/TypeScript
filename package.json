@@ -5,7 +5,8 @@
   "main": "src/app.ts",
   "scripts": {
     "start": "concurrently \"bash run_dev_server.sh\" \"nodemon\"",
-    "test": "jest --watchAll"
+    "test": "jest --watchAll",
+    "build": "npx esbuild src/tasks/module4/dynamicTable/dynamicTable.ts --bundle --minify --outfile=build/dynamicTable/dynamicTable.js --watch"
   },
   "keywords": [
     "env",
