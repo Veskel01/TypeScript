@@ -1,39 +1,15 @@
-import is from 'is_js';
-import Email, { IEmail } from './Email';
+import Email, { IEmail } from "./Email";
+import {
+  throwErrorOnInvalidEmail,
+  throwErrorOnInvalidHTML,
+  throwErrorOnInvalidTitle,
+} from "./helpers";
 
 const errorHandler = (error: string) => {
   throw new Error(error);
 };
 
-const throwErrorOnInvalidEmail = (email: string): boolean => {
-  if (is.empty(email)) {
-    errorHandler('Invalid email address');
-  }
-  return true;
-};
-
-const throwErrorOnInvalidTitle = (title: string): boolean => {
-  if (is.empty(title)) {
-    errorHandler('Tittle cannot be empty');
-  }
-  return true;
-};
-
-const throwErrorOnInvalidHTML = (html: string): boolean => {
-  if (is.empty(html)) {
-    errorHandler('Invalid HTML code');
-  }
-  return true;
-};
-
 interface IEmailBuilder {
-  _email: IEmail;
-  from: string;
-  to: string;
-  cc?: string[];
-  bcc?: string[];
-  title: string;
-  HTML: string;
   setSendEmailFrom: (from: string) => this;
   setSendEmailTo: (to: string) => this;
   setEmailCC: (carbonCopy: string) => this;
@@ -44,66 +20,73 @@ interface IEmailBuilder {
 }
 
 class EmailBuilder implements IEmailBuilder {
-  _email!: IEmail;
-  from!: string;
-  to!: string;
-  cc?: string[];
-  bcc?: string[];
-  title!: string;
-  HTML!: string;
+  private _email: IEmail;
   constructor() {
-    this.from;
-    this.to;
-    this.cc;
-    this.bcc;
-    this.title;
-    this.HTML;
+    this._email = {
+      from: "",
+      to: "",
+      cc: [],
+      bcc: [],
+      title: "",
+      HTML: "",
+    };
   }
 
-  setSendEmailFrom(from: string): this {
-    throwErrorOnInvalidEmail(from);
-    this.from = from;
+  public setSendEmailFrom(from: string): this {
+    this._email.from = from;
     return this;
   }
 
-  setSendEmailTo(to: string): this {
-    throwErrorOnInvalidEmail(to);
-    this.to = to;
+  public setSendEmailTo(to: string): this {
+    this._email.to = to;
     return this;
   }
 
-  setEmailCC(carbonCopy: string): this {
-    throwErrorOnInvalidEmail(carbonCopy);
-    this.cc = [];
-    if (!this.cc.includes(carbonCopy)) {
-      this.cc.push(carbonCopy);
+  public setEmailCC(carbonCopy: string): this {
+    this._email.cc = [];
+    if (!this._email.cc.includes(carbonCopy)) {
+      this._email.cc.push(carbonCopy);
     }
     return this;
   }
 
-  setEmailBCC(blindCarbonCopy: string): this {
-    throwErrorOnInvalidEmail(blindCarbonCopy);
-    this.bcc = [];
-    if (!this.bcc.includes(blindCarbonCopy)) {
-      this.bcc.push(blindCarbonCopy);
+  public setEmailBCC(blindCarbonCopy: string): this {
+    this._email.bcc = [];
+    if (!this._email.bcc.includes(blindCarbonCopy)) {
+      this._email.bcc.push(blindCarbonCopy);
     }
     return this;
   }
 
-  setEmailTitle(title: string): this {
-    throwErrorOnInvalidTitle(title);
-    this.title = title;
+  public setEmailTitle(title: string): this {
+    this._email.title = title;
     return this;
   }
 
-  setHTML(HTML: string): this {
-    throwErrorOnInvalidHTML(HTML);
-    this.HTML = HTML;
+  public setHTML(HTML: string): this {
+    this._email.HTML = HTML;
     return this;
   }
 
-  build(): IEmail {
-    const email: IEmail = new Email(this.from, this.to, this.title, this.HTML, this.cc, this.bcc);
+  public build(): IEmail {
+    throwErrorOnInvalidEmail(this._email.from);
+    throwErrorOnInvalidEmail(this._email.to);
+    if (this._email.cc) {
+      this._email.cc.forEach((carbonCoby) => throwErrorOnInvalidEmail(carbonCoby));
+    }
+    if (this._email.bcc) {
+      this._email.bcc.forEach((blindCarbonCopy) => throwErrorOnInvalidEmail(blindCarbonCopy));
+    }
+    throwErrorOnInvalidTitle(this._email.title);
+    throwErrorOnInvalidHTML(this._email.HTML);
+    const email: IEmail = new Email(
+      this._email.from,
+      this._email.to,
+      this._email.title,
+      this._email.HTML,
+      this._email.cc,
+      this._email.bcc
+    );
     return email;
   }
 }

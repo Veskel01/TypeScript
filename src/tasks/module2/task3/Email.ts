@@ -14,13 +14,20 @@ class Email implements IEmail {
   public bcc?: string[];
   public title: string;
   public HTML: string;
-  constructor(from: string, to: string, title: string, HTML: string, cc?: string[], bcc?: string[]) {
+  constructor(
+    from: string,
+    to: string,
+    title: string,
+    HTML: string,
+    cc?: string[],
+    bcc?: string[]
+  ) {
     this.from = from;
     this.to = to;
     this.cc = cc || [];
     this.bcc = bcc || [];
-    this.title = title || '';
-    this.HTML = HTML || '';
+    this.title = title || "";
+    this.HTML = HTML || "";
   }
 }
 
