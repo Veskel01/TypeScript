@@ -1,17 +1,15 @@
 // Promise all method
 
-export const promiseAll = <T>(arrayOfPromises: Promise<any>[]): Promise<unknown> => {
-  const arrayOfResults: T[] = [];
+export const promiseAll = (arrayOfPromises: Promise<unknown>[]): Promise<unknown> => {
+  const result: unknown[] = [];
   return new Promise(
     async (resolve, reject): Promise<void> => {
-      let counter: number = arrayOfPromises.length;
       try {
         for await (const item of arrayOfPromises) {
-          arrayOfResults.push(item);
-          counter--;
-          if (counter === 0) {
-            resolve(arrayOfResults);
-          }
+          result.push(item);
+        }
+        if (result.slice()) {
+          resolve(result);
         }
       } catch (error) {
         if (error) {
@@ -24,9 +22,9 @@ export const promiseAll = <T>(arrayOfPromises: Promise<any>[]): Promise<unknown>
 
 // Promise race method
 
-export const promiseRace = <T>(arrayOfPromises: Promise<any>[]): Promise<T> => {
+export const promiseRace = <T>(arrayOfPromises: Promise<unknown>[]): Promise<unknown | void> => {
   return new Promise((resolve, reject): void => {
-    arrayOfPromises.forEach((singlePromise: Promise<T>) => {
+    arrayOfPromises.forEach((singlePromise: Promise<unknown>) => {
       Promise.resolve(singlePromise)
         .then(resolve)
         .catch((error: string) => reject(new Error(error)));
@@ -57,12 +55,15 @@ export const promiseLast = <T>(arrayOfPromises: Promise<any>[]): Promise<T> => {
 
 export const promiseIgnoreErrors = <T>(arrayOfPromises: Promise<any>[]): Promise<any> => {
   const results: T[] = [];
-  return new Promise((resolve, reject): void => {
-    arrayOfPromises.forEach((item: Promise<T>) => {
-      item.then((value: T) => {
-        results.push(value);
-        resolve(results);
-      });
-    }, reject);
+  return new Promise((resolve): void => {
+    arrayOfPromises.forEach(
+      (item: Promise<T>) => {
+        item.then((value: T) => {
+          results.push(value);
+          resolve(results);
+        });
+      },
+      () => {}
+    );
   });
 };

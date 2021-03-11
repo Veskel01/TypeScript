@@ -1,5 +1,5 @@
-import { v4 as uuidv4 } from 'uuid';
-import { ICartItem, changeItemPriceBasedOnQuantity } from './CartItem';
+import { v4 as uuidv4 } from "uuid";
+import { ICartItem, changeItemPriceBasedOnQuantity } from "./CartItem";
 
 const errorHandler = (error: string) => {
   throw new Error(error);
@@ -11,11 +11,9 @@ const throwErrorOnInvalidQuantity = (
   key: changeItemPriceBasedOnQuantity
 ): void => {
   if (quantity < 0) {
-    errorHandler('Invalid item quantity!');
-  } else if (itemInCart.quantity < quantity && key === 'remove') {
-    errorHandler(
-      `Item ${itemInCart.name} quantity cannot be less than quantity to remove`
-    );
+    errorHandler("Invalid item quantity!");
+  } else if (itemInCart.quantity < quantity && key === "remove") {
+    errorHandler(`Item ${itemInCart.name} quantity cannot be less than quantity to remove`);
   }
 };
 
@@ -46,11 +44,9 @@ class Cart implements ICart {
   }
 
   private _checkIfItemInCart(item: ICartItem): number {
-    const findDuplicatedItem: number = this._products.findIndex(
-      (itemInCart: ICartItem) => {
-        return itemInCart.id === item.id;
-      }
-    );
+    const findDuplicatedItem: number = this._products.findIndex((itemInCart: ICartItem) => {
+      return itemInCart.id === item.id;
+    });
     return findDuplicatedItem;
   }
 
@@ -67,14 +63,14 @@ class Cart implements ICart {
   }
 
   public addItemToCart(item: ICartItem, quantity: number = 1): void {
-    throwErrorOnInvalidQuantity(item, quantity, 'add');
+    throwErrorOnInvalidQuantity(item, quantity, "add");
     const index: number = this._checkIfItemInCart(item);
     if (index === -1) {
-      item.changeItemPriceBasedOnQuantity('add', quantity);
+      item.changeItemPriceBasedOnQuantity("add", quantity);
       item.priceOfAllItems *= item.quantity;
       this._products.push(item);
     } else {
-      this._products[index].changeItemPriceBasedOnQuantity('add', quantity);
+      this._products[index].changeItemPriceBasedOnQuantity("add", quantity);
       this._products[index].priceOfAllItems =
         this._products[index].quantity * this._products[index].price;
     }
@@ -82,10 +78,10 @@ class Cart implements ICart {
   }
 
   public removeItemFromCart(item: ICartItem, quantity: number = 1): void {
-    throwErrorOnInvalidQuantity(item, quantity, 'remove');
+    throwErrorOnInvalidQuantity(item, quantity, "remove");
     const index: number = this._checkIfItemInCart(item);
     if (index !== -1 && item.quantity !== quantity) {
-      item.changeItemPriceBasedOnQuantity('remove', quantity);
+      item.changeItemPriceBasedOnQuantity("remove", quantity);
       item.priceOfAllItems = item.price * item.quantity;
     } else if (index !== -1 && item.quantity === quantity) {
       this._products.splice(index, 1);
@@ -96,10 +92,9 @@ class Cart implements ICart {
   }
 
   public setCartDiscount(discountCode: string): void {
-    if (discountCode === 'koszyk123') {
+    if (discountCode === "koszyk123") {
       this.cartDiscount = 15;
-      this.cartPrice =
-        this.cartPrice - (this.cartPrice * this.cartDiscount) / 100;
+      this.cartPrice = this.cartPrice - (this.cartPrice * this.cartDiscount) / 100;
     } else {
       errorHandler(`Invalid discount code`);
     }

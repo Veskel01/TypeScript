@@ -1,4 +1,4 @@
-import axios, { AxiosResponse } from 'axios';
+import axios, { AxiosResponse } from "axios";
 
 const fetchData = async <T>(query: string): Promise<T> => {
   try {
@@ -7,7 +7,7 @@ const fetchData = async <T>(query: string): Promise<T> => {
     );
     return response.data;
   } catch (error) {
-    return error;
+    throw new Error(error.message);
   }
 };
 

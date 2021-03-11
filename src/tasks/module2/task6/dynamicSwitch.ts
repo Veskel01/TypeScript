@@ -8,19 +8,10 @@ const errorHandler = (error: string): void => {
   throw new Error(error);
 };
 
-// single case = [boolean, fn]
-
-// type tuple = [boolean, function]
-
-// condition = boolean
-// onErrorCallback = function
-
-// //.add ( [true/false, errorFn] )
-
 type caseTuple = [boolean, () => void];
 
 class Switch implements ISwitch {
-  cases: caseTuple[];
+  public cases: caseTuple[];
   constructor() {
     this.cases = [];
   }
@@ -37,9 +28,9 @@ class Switch implements ISwitch {
       for (let i: number = 0; i < this.cases.length; i++) {
         const caseCondition: boolean = this.cases[i][0];
         const caseCallback: () => void = this.cases[i][1];
+        this.cases.splice(i);
         if (caseCondition == true) {
           caseCallback();
-          this.cases.splice(i);
           return false;
         }
         return true;
