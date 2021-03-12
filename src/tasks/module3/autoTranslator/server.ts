@@ -1,7 +1,7 @@
-import express, { Express } from 'express';
-import cors from 'cors';
-import translateData from './autoTranslator';
-import { checkIfFileExists } from './JsonService';
+import express, { Express } from "express";
+import cors from "cors";
+import translateData from "./autoTranslator";
+import { checkIfFileExists } from "./JsonService";
 
 const app: Express = express();
 
@@ -9,15 +9,15 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(cors());
 
-app.get('/', (req, res) => {
-  res.send('Wpisz język do tłumaczenia po / w url');
+app.get("/", (req, res) => {
+  res.send("Wpisz język do tłumaczenia po / w url");
 });
 
-app.get('/:lang', (req, res) => {
+app.get("/:lang", (req, res) => {
   const { lang } = req.params;
   const translate = async (): Promise<void> => {
     const checkIfJSONfileExists: string | undefined = checkIfFileExists(lang);
-    if (typeof checkIfJSONfileExists === 'object') {
+    if (typeof checkIfJSONfileExists === "object") {
       res.send(checkIfJSONfileExists);
     } else {
       try {
@@ -38,3 +38,7 @@ const port: number = 8080;
 app.listen(port, () => {
   console.log(`Listen`);
 });
+
+// Router
+
+// parsowanie obiektu do prostej postaci, następnie odparsowanie go
